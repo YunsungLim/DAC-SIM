@@ -232,16 +232,17 @@ dac-sim opt examples --num_total_optimization=100 --num_internal_steps=50 --num_
 
 ## Citation
 
-If you find this package useful, please consider citing our work:
-["Accelerating CO<sub>2</sub> Direct Air Capture Screening for Metal-Organic Frameworks with a Transferable Machine Learning Force Field"](https://doi.org/10.26434/chemrxiv-2024-7w6g6)
+If you find this package useful, please consider citing our work published in Matter:
+
+["Accelerating CO<sub>2</sub> Direct Air Capture Screening for Metal-Organic Frameworks with a Transferable Machine Learning Force Field"](https://www.cell.com/matter/fulltext/S2590-2385(25)00246-2)
 
 ```bibtex
-@article{Lim2024accelerating,
-    title={Accelerating CO2 Direct Air Capture Screening for Metal-Organic Frameworks with a Transferable Machine Learning Force Field},
-    author={Lim, Yunsung and Park, Hyunsoo and Walsh, Aron and Kim, Jihan},
-    journal={ChemRxiv},
-    doi={10.26434/chemrxiv-2024-7w6g6},
-    year={2024},
+@article{lim2025accelerating,
+  title={Accelerating CO2 direct air capture screening for metal-organic frameworks with a transferable machine learning force field},
+  author={Lim, Yunsung and Park, Hyunsoo and Walsh, Aron and Kim, Jihan},
+  journal={Matter},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
 
